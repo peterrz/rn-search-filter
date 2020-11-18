@@ -1,4 +1,4 @@
-# RN-Search-Option-Bar
+# RN-Search-Filter
 <a href="https://npmjs.org/package/rn-search-option-bar"><img alt="npm version" src="http://img.shields.io/npm/dt/rn-header.svg?style=flat-square"></a>
 <br>
 
@@ -9,6 +9,12 @@
 
 ![Example One](./example.gif  "Example gif")
 
+#### New Features
+
+* Fork from <a href="https://github.com/parkerdan/rn-search-option-bar"><img alt="npm version" src="http://img.shields.io/github/forks/:user/:repo?label=Fork"></a>
+* Fix problem `PropTypes`
+* Add deactived button style `deactivebuttonStyle`
+* Add deactived text style `deactivetextStyle`
 
 #### How it works
 
