@@ -1,24 +1,25 @@
 {
-  "name": "rn-search-option-bar",
-  "version": "1.1.0",
-  "description": "react-native scrollable horizontal search option bar",
-  "main": "SearchOptionBar.js",
+  "name": "rn-search-filter",
+  "version": "1.1.1",
+  "description": "react-native scrollable horizontal search filter",
+  "main": "SearchFilter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parkerdan/rn-search-option-bar.git"
+    "url": "git+https://github.com/peterrz/rn-search-filter.git"
   },
   "keywords": [
     "react-native",
     "search-bar",
-    "search-option-bar"
+    "search-filter",
+    "category",
   ],
-  "author": "Dan Parker",
+  "author": "Pourya rezaeezadeh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/parkerdan/rn-search-option-bar/issues"
+    "url": "https://github.com/peterrz/rn-search-filter.git/issues"
   },
-  "homepage": "https://github.com/parkerdan/rn-search-option-bar#readme"
+  "homepage": "https://github.com/peterrz/rn-search-filter.git#readme"
 }
