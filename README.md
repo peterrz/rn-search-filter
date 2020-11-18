@@ -1,8 +1,8 @@
 # RN-Search-Filter
-<a href="https://npmjs.org/package/rn-search-option-bar"><img alt="npm version" src="http://img.shields.io/npm/dt/rn-header.svg?style=flat-square"></a>
+<a href="https://www.npmjs.com/package/rn-search-filter"><img alt="npm version" src="http://img.shields.io/npm/dt/rn-header.svg?style=flat-square"></a>
 <br>
 
-* `npm install rn-search-option-bar --save`
+* `npm i rn-search-filter`
 
 <br>
 
