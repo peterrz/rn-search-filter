@@ -1,6 +1,6 @@
 {
   "name": "rn-search-filter",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "react-native scrollable horizontal search filter",
   "main": "SearchFilter.js",
   "scripts": {
@@ -14,12 +14,19 @@
     "react-native",
     "search-bar",
     "search-filter",
-    "category",
+    "category"
   ],
-  "author": "Pourya rezaeezadeh",
+  "author": "Pourya Rezaee Zadeh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/peterrz/rn-search-filter.git/issues"
+    "url": "https://github.com/peterrz/rn-search-filter/issues"
   },
-  "homepage": "https://github.com/peterrz/rn-search-filter.git#readme"
+  "homepage": "https://github.com/peterrz/rn-search-filter#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.64.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "proptypes": "^1.1.0"
+  }
 }
