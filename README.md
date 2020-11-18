@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
  })
 
 
-import SearchOptionBar from 'rn-search-option-bar';
+import SearchOptionBar from 'rn-search-filter';
 
 class SearchOptionBarExample extends React.Component {
   render(){
