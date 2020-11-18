@@ -11,7 +11,7 @@
 
 #### New Features
 
-* Fork from <a href="https://github.com/parkerdan/rn-search-option-bar"><img alt="npm version" src="http://img.shields.io/github/forks/:user/:repo?label=Fork"></a>
+* Fork from <a href="https://github.com/parkerdan/rn-search-option-bar"><img alt="npm version" src="http://img.shields.io/github/forks/parkerdan/rn-search-option-bar?label=Fork"></a>
 * Fix problem `PropTypes`
 * Add deactived button style `deactivebuttonStyle`
 * Add deactived text style `deactivetextStyle`
